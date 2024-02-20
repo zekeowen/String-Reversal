@@ -1,4 +1,4 @@
-// Reverse a string 
+// Reverse a string in C
 #include <stdio.h> 
 #include <string.h> 
   
